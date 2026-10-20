@@ -93,8 +93,8 @@ python run_benchmarks.py
 
 ```bash
 # Clone the repo
-git clone https://github.com/anaysingh424/image-ed.git
-cd image-ed
+git clone https://github.com/anaysingh424/image-E-D.git
+cd image-E-D
 
 # Create and work on your feature branch
 git checkout -b feature/your-feature-name
