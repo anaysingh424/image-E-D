@@ -1,0 +1,5 @@
+# Ignore documentation and paper HTML files from GitHub language statistics
+papers/** linguist-documentation
+*.htm linguist-documentation
+*.html linguist-documentation
+explainability_presentation.html linguist-documentation
